@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlaceFinder</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- GoogleMapService -->
+    <string name="google_maps_key">AIzaSyDsnkDV1m_rOxepb30GhSwk-MHOHYbz49g</string>
+
+</resources>
